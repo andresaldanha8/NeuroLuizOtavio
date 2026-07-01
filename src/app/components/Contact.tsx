@@ -263,10 +263,10 @@ export function Contact() {
                   <div>
                     <div className="text-[#2F3E3A] font-medium mb-0.5 sm:mb-1 text-sm sm:text-base">E-mail</div>
                     <a
-                      href="mailto:contato@neuropsiluizotavio.netlify.app"
+                      href="mailto:limaluizotavio7@gmail.com"
                       className="text-[#4090eb] hover:underline break-all text-xs sm:text-sm"
                     >
-                      contato@neuropsiluizotavio.com.br
+                      limaluizotavio7@gmail.com
                     </a>
                   </div>
                 </div>
@@ -277,7 +277,7 @@ export function Contact() {
                   </div>
                   <div>
                     <div className="text-[#2F3E3A] font-medium mb-0.5 sm:mb-1 text-sm sm:text-base">Atendimento</div>
-                    <p className="text-[#6B7F79] text-xs sm:text-sm">Presencial e Online</p>
+                    <p className="text-[#4090eb] text-xs sm:text-sm">Presencial e Online</p>
                   </div>
                 </div>
               </div>

@@ -6,7 +6,6 @@ import { Services } from './components/Services';
 import { HowItWorks } from './components/HowItWorks';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
-import { Pricing } from './components/Pricing';
 import { VirtualChat } from './components/VirtualChat';
 
 export default function App() {
@@ -19,7 +18,6 @@ export default function App() {
         <About />
         <Services />
         <HowItWorks />
-        <Pricing />
         <Contact />
       </main>
       <Footer />
